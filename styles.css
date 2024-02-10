@@ -34,3 +34,9 @@ li > span {
 hr {
     border-top: 1px solid hsl(0, 0%, 59%);
 }
+
+#profile-pic {
+    border-radius: 50%;
+    width: 92px;
+    border: 5.6px solid white;
+}
