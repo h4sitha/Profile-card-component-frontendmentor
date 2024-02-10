@@ -39,4 +39,13 @@ hr {
     border-radius: 50%;
     width: 92px;
     border: 5.6px solid white;
+    position: absolute;
+    top: 140px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+main {
+    position: relative;
+    width: fit-content;
 }
