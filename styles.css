@@ -3,6 +3,7 @@
 body {
     font-family: "Kumbh Sans";
     text-align: center;
+    background-color: hsl(185, 75%, 39%);
 }
 
 * {
@@ -58,7 +59,7 @@ hr {
 #profile-pic {
     border-radius: 50%;
     width: 104px;
-    border: 5.6px solid white;
+    border: 5.6px solid rgb(252, 252, 252);
     position: absolute;
     top: 140px;
     left: 50%;
@@ -68,6 +69,7 @@ hr {
 main {
     position: relative;
     width: fit-content;
+    background-color: rgb(252, 252, 252);
 }
 
 li {
