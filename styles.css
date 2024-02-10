@@ -86,4 +86,5 @@ ul {
     display: flex;
     justify-content: space-evenly;
     margin-top: 23px;
+    margin-bottom: 0;
 }
