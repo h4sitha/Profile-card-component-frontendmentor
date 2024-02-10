@@ -3,3 +3,19 @@
 body {
     font-family: "Kumbh Sans";
 }
+
+h1, li > span {
+    font-size: 18px;
+}
+
+main > span {
+    font-size: 17px;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+h3 {
+    font-size: 10px;
+}
