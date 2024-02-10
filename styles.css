@@ -73,3 +73,10 @@ li {
     display: flex;
     flex-direction: column-reverse;
 }
+
+ul {
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 23px;
+}
