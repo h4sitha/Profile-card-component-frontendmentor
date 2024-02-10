@@ -14,8 +14,13 @@ main > span {
 
 h2 {
     font-size: 14px;
+    font-weight: 400;
 }
 
 h3 {
     font-size: 10px;
+}
+
+li > span {
+    font-weight: 700;
 }
