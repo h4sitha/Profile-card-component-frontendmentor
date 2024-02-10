@@ -4,6 +4,11 @@ body {
     font-family: "Kumbh Sans";
 }
 
+* {
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
 h1, li > span {
     font-size: 18px;
     color: hsl(229, 23%, 23%);
@@ -37,7 +42,7 @@ hr {
 
 #profile-pic {
     border-radius: 50%;
-    width: 92px;
+    width: 104px;
     border: 5.6px solid white;
     position: absolute;
     top: 140px;
