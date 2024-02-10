@@ -6,6 +6,7 @@ body {
 
 h1, li > span {
     font-size: 18px;
+    color: hsl(229, 23%, 23%);
 }
 
 main > span {
@@ -17,8 +18,13 @@ h2 {
     font-weight: 400;
 }
 
+h2, main > span {
+    color: hsl(227, 10%, 46%);
+}
+
 h3 {
     font-size: 10px;
+    color: hsl(0, 0%, 59%);
 }
 
 li > span {
