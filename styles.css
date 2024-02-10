@@ -67,3 +67,9 @@ main {
     position: relative;
     width: fit-content;
 }
+
+li {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column-reverse;
+}
