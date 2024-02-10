@@ -32,6 +32,8 @@ main > span {
 h2 {
     font-size: 14px;
     font-weight: 400;
+    margin-top: -4px;
+    margin-bottom: 24px;
 }
 
 h2, main > span {
